@@ -1,8 +1,7 @@
 import qrcode
 
 # The link you want to encode
-url = "https://colab.research.google.com/drive/1FV5AIka2jyXa8yFHOiRiHTdAYO8gPtSZ?usp=sharing"
-
+url = "smth
 # Generate QR code
 qr = qrcode.QRCode(
     version=1,  # controls size (1 = 21x21, higher = larger QR)
